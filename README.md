@@ -24,7 +24,7 @@ A simple and elegant web application dedicated to the art of Hindi Shayari. This
 
 **Server:** API
 
-**Version Control** Git
+**Version Control:** Git
 
 
 ## Installation
@@ -39,10 +39,8 @@ Run project locally
     
 ## Demo
 
- [click here](www.google.com)
+ [click here](https://hindinama.netlify.app)
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
