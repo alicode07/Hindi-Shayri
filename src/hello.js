@@ -7,7 +7,7 @@ function demo123(){
 }
 demo12.addEventListener("click", () => {
   demo123();  
-});
+})
 
 // Fetch data from the API
 fetch('https://hindi-quotes.vercel.app/random')

@@ -32,14 +32,13 @@ A simple and elegant web application dedicated to the art of Hindi Shayari. This
 Run project locally
 
 ```bash
- Step 1: install visual studio code
- Step 2: install live server extension in visual studio code
- step 3: click live server icon or press ALT+L ALT+N
+ To run the app locally, clone the repository and open index.html in your browser.
 ```
     
 ## Demo
 
  [click here](https://hindinama.netlify.app)
+
 
 
 
